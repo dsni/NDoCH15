@@ -1,0 +1,219 @@
+Link: https://codeforboston.hackpad.com/Team-Stingray-6gpi12nfy7D
+
+Team Stingray
+Back to the National Day of Civic Hacking 2015 main hackpad 
+PRESENTATION: https://docs.google.com/presentation/d/1O8DP4o_UbxniZQAVEqDuIBASqfmtRZ8TtRPFo9naIfU/edit?usp=sharing
+People (Name, contact info, etc)
+
+    Andrew Seeder
+
+    Christopher Scranton 
+
+    Maria Grinko 
+
+    Frank Braman
+
+Project Type
+
+    App, data visualization, or other technology project
+
+    Policy discussion
+
+    Business idea
+
+    Community initiative
+
+    Other: Describe here
+
+What question(s) or challenge(s) is this project is trying to address?
+How might we show recent high school graduates what jobs are available in their neighborhood?
+Additional: In the defined neighborhood area, i) increasing the number of employers that open jobs to neighborhood youth, ii) increasing the number of neighborhood youth that secure jobs with local employers, and i) creating a sustainable support system to facilitate and track the progress of i and ii.
+General Project Description
+DSNI has been organizing in the North Dorchester/Roxbury neighborhoods for 31 years. We have many irons in the fire. One of our main concerns is making sure that our recent high school graduates know what jobs are available in their communities. This means:
+
+    1) There's a list of all the employers in the neighborhood
+
+    2) We know which employers selectively hire youth from the neighborhood
+
+    3) Youth have access to jobs listings
+
+    4) Both youth and employers understand the value of partnering together
+
+Relevant links (GitHub repo, Deployment URL, etc)
+Channel on Code for Boston Slack: https://cfb-public.slack.com/messages/stingray/
+GitHub: https://github.com/dsni/NDoCH15
+Deployed at: http://your-project.url
+Links for the team (Research, resources, etc.)
+About the community: http://www.dsni.org/for-researchers/
+Current status
+Matching Service Platform: Use pre-existing technology, such as helparoundtown.com or jobcase.com
+Organizing documents: 
+
+    1) Determine catchment area of public transit travel times for neighborhood youth
+
+    2) Resource list of employers in the neighborhood (size?)
+
+LAND USE MAP
+
+    NB: BLUE = COMMERCIAL LAND
+
+     YELLOW = MIXED USE
+
+    GREEN = INDUSTRIAL
+
+
+SCHOOL MAP:
+Enrollment = 4,200
+Graduating seniors = 295
+Zip Code Map 
+Approximations: 02119, 02125, 02121 (clockwise from top in this map):
+Next steps
+Find stingray emoji
+Shareabouts?
+List of employers in the neighborhood
+Zoning parcels in the DVC. (Zoning metadata: https://data.cityofboston.gov/Permitting/Zoning-Clearances/6xhk-ifjg)
+Set up a collaborative mapping space -- OSM? CartoDB?
+Defining Areas for Service Delivery
+1 - (Largest) Area for Eligible Job Listings
+2 - (Medium)  Area for "help your own neighborhood"-style Engagement (Dudley Village Campus + 20min walking distance)
+3 - (Smallest) Area of all residences and schools within Dudley Street Village
+Definitions for "Area for Eligible Job Listings":
+
+    Dudley Village Campus and 30min max travel on any available mass transit 
+
+    Dudley Square bus terminal jumping off point (30mins from start location)
+
+Research/Project plan
+
+    Survey employers in the neighborhood
+
+    Survey South Bay Center companies in particular
+
+    Youth outreach -- Ford Foundation grant this summer
+
+    Organize employers -- Merchant Association
+
+    Marketing/branding necessary for communications strategy
+
+    Some enthusiasm around a simple "translation" application that translates what teens are doing (say, what they spend > 1 hr per day on) to a "business speak" that shows what skills they have because of their hobbies. E.g. "I play baseball three days a week" translates to "I have leadership and group collaboration skills"
+
+    Software youths can use to keep track of what skills they have (e.g. promptness, listening, teamwork, etc.)
+
+Background research:
+Quick info:
+
+    Young people without degrees are more likely than any other cohort to be unemployed right now.
+
+    Youth unemployment is not a new trend, but we're dealing with high rates by historical standards.
+
+    Nonwhite, low income populations much more likely to have unemployed youth (28% vs. 44%).
+
+    Early labor market experiences are important for career trajectories.
+
+    Interesting finding from NYC: summer youth jobs program that used a lottery to match youth with positions proved useful in keeping teens 1. alive, and 2. out of jail, but did not improve their chances of having work in the future. In fact, they were slightly worse off.
+
+Reasons youth can't find work:
+
+    They're in school. More kids are in school than ever before. We have the highest percentage of HS grads in this country than since we started tracking it.
+
+    Transition from not working (school, unemployment) to working is harder than transitioning from one job to another.
+
+    They're graduating in a time when unemployment levels are higher (recession), which has a lifetime impact on earning potential unfortunately.
+
+    They don't have a college degree, and a lot of jobs require one.
+
+    Separation rate: Young people are more likely to sample different types of jobs, like at a buffet, rather than sticking with one path. This means there are more lulls in employment.
+
+    Sources differ on the impact of older generations, immigrants, and pressure from other unemployed groups ("staying in workforce longer," "being laid off and taking lower wage jobs," "can't find higher wage positions," "saturating market").
+
+    Facing a "cocktail of problems":
+
+    Need to take the GED
+
+    Need more vocational training
+
+    Need child care
+
+    Need bus fares
+
+    Have previous convictions, probation officer issues
+
+    "Woeful lack of marketable workplace skills among high school grads."
+
+    More likely to find themselves in low wage, entry level jobs, and those are not as enriching. ("How might we enrich low wage, entry level jobs?")
+
+Sources:
+
+    http://www.usnews.com/news/articles/2012/05/30/the-teen-jobs-problem-its-worse-than-it-looks?page=2
+
+    http://www.thefiscaltimes.com/Columns/2015/01/09/Why-Youth-Unemployment-Still-Huge-Problem
+
+    http://Team Stingraywww.theatlantic.com/business/archive/2014/06/the-real-reason-that-young-people-cant-find-jobs/372514/
+
+    http://www.washingtonpost.com/news/storyline/wp/2014/10/27/4968/
+
+    http://www.cnbc.com/id/102402721
+
+    "Understanding and Addressing the Youth Employment Crisis": http://commcorp.org/resources/documents/Signaling_Success_OnePager_11.20141.pdf
+
+    "Boosting Teen Employment Prospects": http://commcorp.org/resources/documents/BoostingTeenEmploymentProspects_042013.pdf
+
+    Major findings: 
+
+Potential questions for employers:
+
+    How do you post for positions? How do you recruit? (Are they even using electronic resources?)
+
+    What do you look for in an applicant? What experiences, skills do you need?
+
+    "Develop capacity to connect with local employers and to understand the skills that local employers are looking for when they interview and hire teens." - Commcorp
+
+    What skills can youth attain from working in entry level positions at your business?
+
+    What do you get in the applications? Are they resumes? Do you look at those? (Would probably depend on the size of an employer - for example, TJ Maxx is probably going to handle applications differently than a mom and pop shop that doesn't even take credit cards).
+
+    What are your biggest issues in employing youth? Lack of experience? High turnover? Lateness? 
+
+    How does your business see employing youth? A public service? A necessary evil? No different than any other prospective employee?
+
+    Do you promote from within? Are there paths available from the bottom of the company hierarchy to the top?
+
+    What trainings do you offer youth employees that help them develop their professional skills?
+
+Outputs for NDoCH:
+
+    Suggestions for youth peer surveying
+
+    Action plan for employer survey fact-finding mission
+
+    Actual survey
+
+    Plan for South Bay shopping center engagement
+
+    Initial plan for data organizing
+
+    Design principles (that will need to be validated by research projects)
+
+    Translation idea between "teen" and "business" speak
+
+    Electronic definitions of planning geographies (transit times; DVC)
+
+    Multi-year thing
+
+    Nuts and bolts of what we're gonna do -- segment that
+
+    STRATEGY DEFINITION 
+
+    DEMOGRAPHIC DEFINITION
+
+    Platform engagement
+
+    Resident engagement
+
+    Identifying existing resources
+
+    Civic hacking 2.0
+
+RECENT SURVEY: http://www.promiseboston.org/dudley-village-data.html
+NDoCH PRESENTATION:
+https://docs.google.com/presentation/d/1O8DP4o_UbxniZQAVEqDuIBASqfmtRZ8TtRPFo9naIfU/edit#slide=id.p
